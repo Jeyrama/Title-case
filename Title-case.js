@@ -33,3 +33,5 @@ const titleCase = (title, minorWords) => {
 
   return cap(result);
 }
+
+// or
